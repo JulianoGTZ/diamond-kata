@@ -1,7 +1,6 @@
-(ns diamond-kata.core
-  (:gen-class))
+(ns diamond-kata.core)
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
+(defn diamond-str [c]
+"A")
+
+
